@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/rnr-printsandcrafts/static/css/main.6e7bc586.css",
+    "main.js": "/rnr-printsandcrafts/static/js/main.e7998007.js",
+    "static/media/tracing&coloring_workbook.png": "/rnr-printsandcrafts/static/media/tracing&coloring_workbook.dafc80f6675503c53327.png",
+    "static/media/minimalist_receipts.png": "/rnr-printsandcrafts/static/media/minimalist_receipts.b860a35f9448f20a1127.png",
+    "static/media/instax.png": "/rnr-printsandcrafts/static/media/instax.1567eb049b84113b6972.png",
+    "static/media/lets_practrace.png": "/rnr-printsandcrafts/static/media/lets_practrace.ca6c2d781ef364f59d6e.png",
+    "static/media/name_tracing_pads.png": "/rnr-printsandcrafts/static/media/name_tracing_pads.f359000c304e77ffdd7d.png",
+    "static/media/cupcake_toppers.png": "/rnr-printsandcrafts/static/media/cupcake_toppers.53a841df01cbd53b18e5.png",
+    "static/media/2023_planner.png": "/rnr-printsandcrafts/static/media/2023_planner.130a29255d6fc591e8f6.png",
+    "static/media/learning_charts.png": "/rnr-printsandcrafts/static/media/learning_charts.bcc1946e7a5456f842c9.png",
+    "static/media/paper_lootbags.png": "/rnr-printsandcrafts/static/media/paper_lootbags.33b098acd695b7c38697.png",
+    "static/media/sticker_label.png": "/rnr-printsandcrafts/static/media/sticker_label.bf16b9a29e595304dcf2.png",
+    "static/media/customized_party_banner.png": "/rnr-printsandcrafts/static/media/customized_party_banner.f373b4fb06935d7a0603.png",
+    "static/media/Pet_tags.png": "/rnr-printsandcrafts/static/media/Pet_tags.6c6ae762feb403e43c7f.png",
+    "static/media/resin_paw_keychains.png": "/rnr-printsandcrafts/static/media/resin_paw_keychains.9ca3b7752824569cfb14.png",
+    "static/media/customized_prints_crafts.png": "/rnr-printsandcrafts/static/media/customized_prints_crafts.2f95b925fb7352766e87.png",
+    "static/media/thankyou_cards.png": "/rnr-printsandcrafts/static/media/thankyou_cards.5d99efcacc9107a8552e.png",
+    "static/media/paper_pouches.png": "/rnr-printsandcrafts/static/media/paper_pouches.0759d95f32d53e0d582d.png",
+    "static/media/reusable_planner.png": "/rnr-printsandcrafts/static/media/reusable_planner.ce2f35f332afb975b9c8.png",
+    "static/media/customized_receipt.png": "/rnr-printsandcrafts/static/media/customized_receipt.656394381de29a441e16.png",
+    "static/media/personalized_notepad.png": "/rnr-printsandcrafts/static/media/personalized_notepad.5e8995281dc370dc1227.png",
+    "static/media/crafts.png": "/rnr-printsandcrafts/static/media/crafts.9c28839d4d33881861a9.png",
+    "static/media/rnr_bg.png": "/rnr-printsandcrafts/static/media/rnr_bg.41e087a2dcd80a682a82.png",
+    "static/media/rnrLogo.png": "/rnr-printsandcrafts/static/media/rnrLogo.8f3f82c23fe05aba3442.png",
+    "static/media/RNR_nobg.png": "/rnr-printsandcrafts/static/media/RNR_nobg.c351f8e532eb0c940d0b.png",
+    "static/media/Picture2.png": "/rnr-printsandcrafts/static/media/Picture2.86960802eae23d655b7d.png",
+    "static/media/Picture1.png": "/rnr-printsandcrafts/static/media/Picture1.61c0f6f53ef1ebecd37a.png",
+    "static/media/slick.svg": "/rnr-printsandcrafts/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/rnr-printsandcrafts/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/rnr-printsandcrafts/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/rnr-printsandcrafts/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/rnr-printsandcrafts/index.html",
+    "main.6e7bc586.css.map": "/rnr-printsandcrafts/static/css/main.6e7bc586.css.map",
+    "main.e7998007.js.map": "/rnr-printsandcrafts/static/js/main.e7998007.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6e7bc586.css",
+    "static/js/main.e7998007.js"
+  ]
+}
