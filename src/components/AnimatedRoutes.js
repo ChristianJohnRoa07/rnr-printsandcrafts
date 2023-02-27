@@ -15,7 +15,7 @@ const AnimatedRoutes = () => {
     <AnimatePresence initial={false} mode="wait">
       <Routes location={location} key={location.pathname}>
         {/* Home */}
-        <Route path="/" element={<LandingPage />} />
+        <Route path="/rnr-printsandcrafts" element={<LandingPage />} />
         <Route path="/homepage" element={<HomePage />} />
       </Routes>
     </AnimatePresence>
