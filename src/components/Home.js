@@ -26,7 +26,7 @@ function Home() {
                   <h1 className="text-dark_violet">RnR Prints & Crafts</h1>
                 </div>
 
-                <div className="w-96 pl-5 pt-5">
+                <div className="w-auto md:w-96 pl-5 pt-5">
                   <div className="text-sm md:text-lg sm:text-base font-roboto font-normal text-justify">
                     <span className="text-dark_violet">
                       A proud local brand that creates business essentials,

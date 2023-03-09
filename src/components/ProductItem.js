@@ -10,7 +10,7 @@ function ProductItem(props) {
     window.open(url);
   };
   return (
-    <div>
+    <div className="w-auto">
       <div className="flex lg:pt-5 justify-center">
         <div className="
         absolute 
