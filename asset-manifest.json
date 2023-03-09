@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/rnr-printsandcrafts/static/css/main.afe6a1e1.css",
-    "main.js": "/rnr-printsandcrafts/static/js/main.3ad56888.js",
+    "main.css": "/rnr-printsandcrafts/static/css/main.196b8be8.css",
+    "main.js": "/rnr-printsandcrafts/static/js/main.47740358.js",
     "static/media/tracing&coloring_workbook.png": "/rnr-printsandcrafts/static/media/tracing&coloring_workbook.dafc80f6675503c53327.png",
     "static/media/minimalist_receipts.png": "/rnr-printsandcrafts/static/media/minimalist_receipts.b860a35f9448f20a1127.png",
     "static/media/instax.png": "/rnr-printsandcrafts/static/media/instax.1567eb049b84113b6972.png",
@@ -32,11 +32,11 @@
     "static/media/slick.ttf": "/rnr-printsandcrafts/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/rnr-printsandcrafts/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/rnr-printsandcrafts/index.html",
-    "main.afe6a1e1.css.map": "/rnr-printsandcrafts/static/css/main.afe6a1e1.css.map",
-    "main.3ad56888.js.map": "/rnr-printsandcrafts/static/js/main.3ad56888.js.map"
+    "main.196b8be8.css.map": "/rnr-printsandcrafts/static/css/main.196b8be8.css.map",
+    "main.47740358.js.map": "/rnr-printsandcrafts/static/js/main.47740358.js.map"
   },
   "entrypoints": [
-    "static/css/main.afe6a1e1.css",
-    "static/js/main.3ad56888.js"
+    "static/css/main.196b8be8.css",
+    "static/js/main.47740358.js"
   ]
 }
