@@ -289,7 +289,7 @@ function Products() {
         },
       },
       {
-        breakpoint: 600,
+        breakpoint: 768,
         settings: {
           slidesToShow: 2,
           slidesToScroll: 2,
@@ -297,7 +297,7 @@ function Products() {
         },
       },
       {
-        breakpoint: 480,
+        breakpoint: 640,
         settings: {
           slidesToShow: 1,
           slidesToScroll: 1,
@@ -309,6 +309,7 @@ function Products() {
   return (
     <div
       className="
+      
                     max-h-full
                     h-screen
                   bg-dark_violet
@@ -332,15 +333,15 @@ function Products() {
                         mx-5
                       "
         >
-          <div className=" md:hidden pt-10 flex justify-center">
+          <div className=" md:hidden pt-5 md:pt-10 flex justify-center">
             <h1 className="text-3xl md:text-5xl font-bold text-dark_violet">
               PRODUCTS
             </h1>
           </div>
 
-          <div className="pt-8 grid grid-cols-2 md:flex md:flex-col md:pt-28">
+          <div className=" grid grid-cols-2 gap-0 md:flex md:flex-col md:pt-28">
             {/* Navigation Bar */}
-            <div className="py-5 ">
+            <div className="pt-3 ">
               <div className="w-min bg-dark_violet border-2  rounded-lg border-dark_violet flex flex-col md:flex-row md:justify-between md:w-fit">
                 {rnrProducts.map((item, id) => (
                   <ul key={id} className="">
@@ -363,14 +364,14 @@ function Products() {
               </div>
             </div>
 
-            <div className="">
+            <div className="mr-5">
               {/* Products */}
               {rnrProducts.map((item, id) =>
                 activeProduct === id ? (
                   <div className=" mt-10 md:mt-0  md:px-10">
                     <Slider
                       {...settings}
-                      className="flex justify-center md:px-10"
+                      className="md:flex justify-center md:px-10"
                     >
                       {item.products?.map((productItem, productID) => (
                         <div className="">

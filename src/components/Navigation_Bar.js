@@ -11,9 +11,10 @@ import RNRLogo from "../image/rnrLogo.png";
 
 function NavigationBar(props) {
   const nav = useNavigate();
-  const [toggle, setToggle] = useState(false);
+  const [toggle, setToggle] = useState(true);
 
   const handleToggle = () => {
+    
     setToggle(!toggle);
   };
 

@@ -50,12 +50,12 @@ function Contacts() {
           mx-5
         "
       >
-        <div className="pt-3 md:pt-28 md:pr-20">
+        <div className=" md:pt-28 md:pr-20">
           {/* HTML CONTENTS HERE */}
 
           <div className="grid place-items-center grid-cols-1 md:grid-cols-2 md:mt-5 md:ml-20">
             <div>
-              <div className="flex flex-col px-5 py-5 mt-5 md:border-8 md:border-light_violet  ">
+              <div className="flex flex-col px-5 py-5  md:border-8 md:border-light_violet  ">
                 <div className="flex justify-center">
                   <span className=" text-3xl  md:text-5xl  text-light_violet font-extrabold">
                     THANK YOU!
@@ -88,7 +88,7 @@ function Contacts() {
               </div>
             </div>
 
-            <div className="my-5">
+            <div className="">
               <div className="border-2 border-light_violet rounded-lg px-5 md:border-0 md:mt-10 md:flex md:flex-col">
                 {buttonIcons.map((menu, i) => (
                   <div className="my-5 ">

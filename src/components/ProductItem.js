@@ -11,28 +11,32 @@ function ProductItem(props) {
   };
   return (
     <div>
-      <div className="flex justify-center">
-        <div className="absolute mt-0 scale-75 md:scale-100  md:mt-6">
+      <div className="flex lg:pt-5 justify-center">
+        <div className="
+        absolute 
+        scale-100 
+ 
+        mt-6">
           <img src={productItem.productImage} height={150} width={150} />
         </div>
-        <div className="absolute mt-32 ml-0 md:mt-48 md:ml-0   ">
+        <div className="absolute mt-48 ml-0   ">
           <span
             key={productID}
-            className=" text-xs font-normal md:text-sm md:font-bold text-dark_violet "
+            className=" text-sm font-bold text-dark_violet "
           >
             {productItem.productName}
           </span>
         </div>
 
         <div
-          className={classNames("absolute mt-[185px] md:mt-64  ", {
+          className={classNames("absolute mt-[265px] md:mt-64  ", {
             "absolute  md:mt-[285px] ": productItem.productTiktokLink == "",
           })}
         >
           <button
             onClick={() => openNewTab(productItem.productShopeeLink)}
             className="
-               w-40 
+               w-52 
                md:w-56
                px-3 
                rounded-lg
@@ -45,14 +49,14 @@ function ProductItem(props) {
         </div>
 
         <div
-          className={classNames("absolute mt-[215px] md:mt-72 ", {
+          className={classNames("absolute mt-[300px] md:mt-72 ", {
             hidden: productItem.productTiktokLink == "",
           })}
         >
           <button
             onClick={() => openNewTab(productItem.productTiktokLink)}
             className="
-              w-40
+            w-52
               md:w-56
               px-3 
               rounded-lg

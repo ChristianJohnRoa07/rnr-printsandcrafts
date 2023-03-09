@@ -10,13 +10,13 @@ function Home() {
   return (
     <div >
       <div
-        className="
+        className="  
         rounded-3xl 
         bg-light_violet
           mx-5
       "
       >
-        <div className="pt-10 md:flex md:justify-center md:pt-28 md:mt-20">
+        <div className="h-auto w-auto pt-10 md:flex md:justify-center md:pt-28 md:mt-20 ">
           <div className="grid justify-items-center grid-cols-1 md:flex md:gap-10">
             {/* Text */}
             <div>

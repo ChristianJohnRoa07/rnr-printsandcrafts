@@ -27,7 +27,7 @@ function Services() {
             mx-5
           "
         >
-          <div className="pt-5 md:pt-28">
+          <div className="pt-3 md:pt-28">
             
 
             <div className="md:mt-5 flex justify-center">
@@ -36,7 +36,7 @@ function Services() {
               </h1>
             </div>
 
-            <div className="grid justify-items-center grid-cols-1 gap-y-3 mt-3  md:grid-cols-2 md:gap-y-5 md:mt-10 md:px-60">
+            <div className="grid justify-items-center grid-cols-1 gap-y-1 mt-3  md:grid-cols-2 md:gap-y-5 md:mt-10 md:px-60">
               <div className="md:grid md:justify-items-end md:ml-20 ">
                 <h2 className="text-base md:text-2xl font-semibold text-dark_violet">
                   BUSINESS ESSENTIALS
