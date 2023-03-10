@@ -4,6 +4,8 @@ import { Link } from "react-router-dom";
 
 import Typed from "react-typed";
 
+import { fadeIn } from "./Variants";
+
 //Import logo
 import RNRLogoNobg from "../image/RNR_nobg.png";
 import RNRbg from "../image/rnr_bg.png";
@@ -62,7 +64,11 @@ class LandingPage extends Component {
               <div className="    ">
                 <div className="flex flex-col justify-center">
                   <div>
-                    <img
+                    <motion.img
+                      variants={fadeIn("down", 0.7)}
+                      initial="hidden"
+                      whileInView={"show"}
+                      viewport={{ once: false, amount: 0.7 }}
                       // initial={{ scale: 0 }}
                       // animate={{ scale: 1 }}
                       // exit={{ scale: 0 }}
@@ -72,7 +78,13 @@ class LandingPage extends Component {
                       width={700}
                     />
                   </div>
-                  <span className="font-bold text-dark_violet font-roboto text-3xl text-center md:text-5xl ">
+                  <motion.span
+                    variants={fadeIn("up", 0.8)}
+                    initial="hidden"
+                    whileInView={"show"}
+                    viewport={{ once: false, amount: 0.7 }}
+                    className="font-bold text-dark_violet font-roboto text-3xl text-center md:text-5xl "
+                  >
                     RnR Prints &{" "}
                     <Typed
                       className="font-bold text-dark_violet font-roboto text-3xl text-center md:text-5xl "
@@ -81,13 +93,16 @@ class LandingPage extends Component {
                       backSpeed={140}
                       loop
                     />
-                  </span>
+                  </motion.span>
                 </div>
 
                 <div className="mt-5 flex justify-center">
                   <Link to={"/homepage"}>
                     <motion.button
-                      
+                      variants={fadeIn("up", 0.9)}
+                      initial="hidden"
+                      whileInView={"show"}
+                      viewport={{ once: false, amount: 0.7 }}
                       whileHover={{ scale: 1.3 }}
                       transition={transition}
                       className="bg-dark_violet rounded-md font-semibold text-lg text-light_violet py-3 px-16"
