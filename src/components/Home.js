@@ -26,7 +26,7 @@ function Home() {
                     variants={fadeIn("right", 0.3)}
                     initial="hidden"
                     whileInView={"show"}
-                    viewport={{ once: false, amount: 0.7 }}
+                    viewport={{ once: true, amount: 0.1 }}
                     className="text-dark_violet"
                   >
                     Welcome to
@@ -35,7 +35,7 @@ function Home() {
                     variants={fadeIn("right", 0.3)}
                     initial="hidden"
                     whileInView={"show"}
-                    viewport={{ once: false, amount: 0.7 }}
+                    viewport={{ once: true, amount: 0.1 }}
                     className="text-dark_violet"
                   >
                     RnR Prints & Crafts
@@ -47,7 +47,7 @@ function Home() {
                     variants={fadeIn("up", 0.3)}
                     initial="hidden"
                     whileInView={"show"}
-                    viewport={{ once: false, amount: 0.7 }}
+                    viewport={{ once: true, amount: 0.1 }}
                     className="text-sm md:text-lg sm:text-base font-roboto font-normal text-justify"
                   >
                     <span className="text-dark_violet">
@@ -66,7 +66,7 @@ function Home() {
                 variants={fadeIn("left", 0.3)}
                 initial="hidden"
                 whileInView={"show"}
-                viewport={{ once: false, amount: 0.7 }}
+                viewport={{ once: true, amount: 0.1 }}
                 src={craftsPic}
                 height={350}
                 width={350}
