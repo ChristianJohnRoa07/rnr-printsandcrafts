@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/rnr-printsandcrafts/static/css/main.196b8be8.css",
-    "main.js": "/rnr-printsandcrafts/static/js/main.f2a23985.js",
+    "main.js": "/rnr-printsandcrafts/static/js/main.2078794f.js",
     "static/media/tracing&coloring_workbook.png": "/rnr-printsandcrafts/static/media/tracing&coloring_workbook.dafc80f6675503c53327.png",
     "static/media/minimalist_receipts.png": "/rnr-printsandcrafts/static/media/minimalist_receipts.b860a35f9448f20a1127.png",
     "static/media/instax.png": "/rnr-printsandcrafts/static/media/instax.1567eb049b84113b6972.png",
@@ -33,10 +33,10 @@
     "static/media/slick.woff": "/rnr-printsandcrafts/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/rnr-printsandcrafts/index.html",
     "main.196b8be8.css.map": "/rnr-printsandcrafts/static/css/main.196b8be8.css.map",
-    "main.f2a23985.js.map": "/rnr-printsandcrafts/static/js/main.f2a23985.js.map"
+    "main.2078794f.js.map": "/rnr-printsandcrafts/static/js/main.2078794f.js.map"
   },
   "entrypoints": [
     "static/css/main.196b8be8.css",
-    "static/js/main.f2a23985.js"
+    "static/js/main.2078794f.js"
   ]
 }
